@@ -1,0 +1,26 @@
+{
+  "name": "sdc",
+  "version": "1.0.0",
+  "description": "This is the Ratings and Reviews API for the client-side project, FEC-project-catwalk.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hack-Reactor-SDC-Team-Pesto/Ratings-and-Reviews-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hack-Reactor-SDC-Team-Pesto/issues"
+  },
+  "homepage": "https://github.com/Hack-Reactor-SDC-Team-Pesto#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.2.4"
+  }
+}
